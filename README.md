@@ -1,2 +1,2 @@
 # GAN-drug-ike-molecules
-GAN-based network utilising LSTMs to generate drug-like compounds
+GAN-based network utilising LSTMs to generate drug-like compounds.
